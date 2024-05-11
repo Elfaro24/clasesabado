@@ -1,0 +1,10 @@
+suma = 2 + 2
+
+print(suma)
+
+numero2 = float(input("Ingrese el primer numero: "))
+numero3 = int(input("Ingrrse el segundo numero: "))
+
+suma = numero2  + numero3
+
+print(suma)
